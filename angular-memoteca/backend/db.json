@@ -1,0 +1,81 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "We are the champions my friends!!!",
+      "autoria": "Queen",
+      "modelo": "modelo1",
+      "favorito": true
+    },
+    {
+      "id": 2,
+      "conteudo": "Na minha máquina funciona!",
+      "autoria": "Dev da madrugada",
+      "modelo": "modelo2",
+      "favorito": false
+    },
+    {
+      "id": 3,
+      "conteudo": "Continue a codar... continue a codar...",
+      "autoria": "Dory programadora",
+      "modelo": "modelo3",
+      "favorito": false
+    },
+    {
+      "conteudo": "alterando pensamento",
+      "autoria": "Gabriel Arbigaus",
+      "modelo": "modelo3",
+      "favorito": false,
+      "id": 4
+    },
+    {
+      "conteudo": "Formulário reativo",
+      "autoria": "Angular",
+      "modelo": "modelo1",
+      "favorito": false,
+      "id": 5
+    },
+    {
+      "conteudo": "Pensamento de teste",
+      "autoria": "testeeeeeeeeee",
+      "modelo": "modelo1",
+      "favorito": false,
+      "id": 6
+    },
+    {
+      "conteudo": "EU SOU OPTMUS PRIME",
+      "autoria": "Bumbloubee",
+      "modelo": "modelo2",
+      "favorito": false,
+      "id": 7
+    },
+    {
+      "conteudo": "Testando meu alert!",
+      "autoria": "alertaaaaaaaaaaaaaa",
+      "modelo": "modelo2",
+      "favorito": false,
+      "id": 8
+    },
+    {
+      "conteudo": "teste07",
+      "autoria": "joao",
+      "modelo": "modelo3",
+      "favorito": false,
+      "id": 9
+    },
+    {
+      "conteudo": "EU SOU FODA",
+      "autoria": "Mestre Yoda",
+      "modelo": "modelo3",
+      "favorito": false,
+      "id": 10
+    },
+    {
+      "conteudo": "depois de uma ou duas latinhas só",
+      "autoria": "PEDRO ALVARES CABRAL",
+      "modelo": "modelo1",
+      "favorito": false,
+      "id": 11
+    }
+  ]
+}
